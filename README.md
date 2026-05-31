@@ -39,8 +39,8 @@ Java • Spring Boot • Node.js • Angular • React • Python • AWS • Do
 
 ## Contact
 
-📫 Email: sahil.janjua10319@gmail.com
+📫 Email: sahil-janjua@hotmail.com
 
-🌐 Portfolio: https://sahilj10319.github.io/
+🌐 Portfolio: [https://sahilj10319.github.io/](https://sahilj10319.github.io/)
 
 💼 LinkedIn: [https://www.linkedin.com/in/sahil-janjua/](https://www.linkedin.com/in/sahil-janjua10319/)
