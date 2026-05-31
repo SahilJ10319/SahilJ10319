@@ -43,4 +43,4 @@ Java • Spring Boot • Node.js • Angular • React • Python • AWS • Do
 
 🌐 Portfolio: https://sahilj10319.github.io/
 
-💼 LinkedIn: https://www.linkedin.com/in/sahil-janjua/
+💼 LinkedIn: [https://www.linkedin.com/in/sahil-janjua/](https://www.linkedin.com/in/sahil-janjua10319/)
