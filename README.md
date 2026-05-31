@@ -33,9 +33,6 @@ AI-driven self-healing API gateway built with Java 21, Spring Cloud Gateway, Kaf
 ### 🌱 EcoBrief
 Scale-to-zero distributed AI news oracle built with FastAPI, AWS, Ray Serve, and quantized Llama 3.2.
 
-### 🎬 Multimedia Review Platform
-Letterboxd-style full-stack review platform using Angular, Node.js, MongoDB, JWT auth, and Socket.io.
-
 ## Core Technologies
 
 Java • Spring Boot • Node.js • Angular • React • Python • AWS • Docker • Kubernetes • Terraform • PostgreSQL • MongoDB • Kafka
