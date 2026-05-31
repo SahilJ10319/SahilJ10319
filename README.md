@@ -21,9 +21,9 @@ Currently at The Growth Spark; previously at SAP Analytics Cloud.
 
 ## GitHub Stats
 
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilJ10319&show_icons=true&theme=tokyonight&hide_border=true)
+![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilJ10319&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilJ10319&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilJ10319&layout=compact&theme=dark&hide_border=true)
 
 ## What I'm Working On
 
