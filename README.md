@@ -35,7 +35,7 @@ Scale-to-zero distributed AI news oracle built with FastAPI, AWS, Ray Serve, and
 
 ## Core Technologies
 
-Java • Spring Boot • Node.js • Angular • React • Python • AWS • Docker • Kubernetes • Terraform • PostgreSQL • MongoDB • Kafka
+Java • Spring Boot • Node.js • Angular • React • C++ • Python • AWS • Docker • Kubernetes • Terraform • PostgreSQL • MongoDB • Kafka
 
 ## Contact
 
